@@ -1,0 +1,2 @@
+(this["webpackJsonpmain-page"]=this["webpackJsonpmain-page"]||[]).push([[10],{48:function(i,p,a){"use strict";a.r(p),p.default=a.p+"static/media/profile_pic_lenkakim.c4817dc7.png"}}]);
+//# sourceMappingURL=10.9d3f57a6.chunk.js.map

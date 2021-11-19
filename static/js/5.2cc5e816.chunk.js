@@ -1,0 +1,2 @@
+(this["webpackJsonpmain-page"]=this["webpackJsonpmain-page"]||[]).push([[5],{43:function(a,p,i){"use strict";i.r(p),p.default=i.p+"static/media/profile_pic_hangohoon.38add6ea.png"}}]);
+//# sourceMappingURL=5.2cc5e816.chunk.js.map
