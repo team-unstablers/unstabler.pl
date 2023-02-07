@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmain_page=self.webpackChunkmain_page||[]).push([[640],{640:function(e,a,i){e.exports=i.p+"static/media/profile_pic_yeongrimkim.fdad820b014348a433bb.png"}}]);

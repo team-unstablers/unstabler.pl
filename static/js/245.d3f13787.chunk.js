@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmain_page=self.webpackChunkmain_page||[]).push([[245],{245:function(e,p,c){e.exports=c.p+"static/media/profile_pic_jeonheechun.c884c1f151f7b2043062.png"}}]);

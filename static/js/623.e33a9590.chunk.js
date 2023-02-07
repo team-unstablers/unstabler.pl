@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmain_page=self.webpackChunkmain_page||[]).push([[623],{623:function(e,a,p){e.exports=p.p+"static/media/profile_pic_kooseulkawoon.df87771c2999094b05ac.png"}}]);

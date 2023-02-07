@@ -1,2 +1,0 @@
-(this["webpackJsonpmain-page"]=this["webpackJsonpmain-page"]||[]).push([[15],{40:function(a,e,p){"use strict";p.r(e),e.default=p.p+"static/media/slot_3.5ec2a00e.png"}}]);
-//# sourceMappingURL=15.6553d0a3.chunk.js.map

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmain_page=self.webpackChunkmain_page||[]).push([[16],{16:function(e,p,a){e.exports=a.p+"static/media/profile_pic_lenkakim.c4817dc76f570ffdbd96.png"}}]);

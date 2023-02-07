@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmain_page=self.webpackChunkmain_page||[]).push([[12],{12:function(e,a,c){e.exports=c.p+"static/media/slot_3.5ec2a00ee259cc4508d7.png"}}]);
